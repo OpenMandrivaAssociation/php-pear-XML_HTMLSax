@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - a SAX based parser for HTML and other badly formed XML documents
 Name:		php-pear-%{_pearname}
 Version:	3.0.0
-Release:	%mkrel 9
+Release:	%mkrel 10
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
